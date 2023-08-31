@@ -112,4 +112,15 @@ span{
     align-items: center;
 }
 
+@media(max-width:768px){
+    .cards{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding-left: 10px;
+    }
+    
 
+
+
+
+}
